@@ -10,20 +10,20 @@
 name=Vietnamese Font Converter
 qgisMinimumVersion=2.0
 description=Công cụ chuyển đổi mã font trong tiếng Việt.
-version=0.1
+version=0.2
 author=ThanhGIS
 email=thanh.nv@me.com
 
 about=Một trong những đóng góp của ThanhGIS (thanh.nv@me.com) dành tặng người dùng QGIS Việt Nam.
 
-tracker=No bug tracker
+tracker=https://github.com/thanhgis/QGIS-Vietnamese-Font-Converter
 repository=https://github.com/thanhgis/QGIS-Vietnamese-Font-Converter
 # End of mandatory metadata
 
 # Recommended items:
 
 # Uncomment the following line and add your changelog:
-# changelog=
+changelog= Add bugs tracker URL
 
 # Tags are comma separated with spaces allowed
 tags=unicode, Vietnamese, convert
