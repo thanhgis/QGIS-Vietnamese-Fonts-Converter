@@ -9,7 +9,7 @@
 [general]
 name=Vietnamese Font Converter
 qgisMinimumVersion=2.0
-description=Công cụ chuyển đổi mã font trong tiếng Việt.
+description=Công cụ chuyển đổi mã font trong tiếng Việt. This tool helps to convert charsets between encodings, from Vietnamese's UTF-8 to Internationalized (Unicode) and vice versa. For non-Vietnamese users, you can also use this tool to convert into ANSI characters (either "TCVN >> Khong dau" or "Unicode >> Khong dau".
 version=0.2
 author=ThanhGIS
 email=thanh.nv@me.com
